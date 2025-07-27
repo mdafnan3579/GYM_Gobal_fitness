@@ -1,9 +1,10 @@
-Afterdownloading both files
+After downloading both files
 1) cd frontend
 2) npm install
 3) npm run dev
 
-    you can caluate BMI also you have to add 2 emails in backend file one is
-    Confi.env (From sending) one email in App.jsx(To email)
+    You can calculate BMI without using the backend
+   In Backend-  you have to add 2 emails in the backend file, one is in
+    Confi.env (From sending) one email in App.jsx(To receiver email)
 
-   if user register from fronted you will recieve a email 
+   If the user registers from the frontend, you will receive an email 
